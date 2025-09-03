@@ -44,6 +44,7 @@ It comes with ready-to-use **Postman collection** and **cURL script** for quick 
 - **H2 Database**
 - **Maven**
 - **Docker / Docker Compose**
+## Output:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fa2f30b-26c6-4fea-9462-22cb57f5700a" />
 
 
