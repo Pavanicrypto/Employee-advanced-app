@@ -19,3 +19,32 @@ docker compose up --build
 - JDBC URL: `jdbc:h2:mem:employeedb`
 - User: `sa`
 - Password: (leave blank)
+# Employee Advanced App 🚀
+
+A Spring Boot REST API for managing employees with **CRUD operations**.  
+The app uses **Spring Boot + Spring Data JPA + H2 (in-memory DB)** and runs inside **Docker**.  
+It comes with ready-to-use **Postman collection** and **cURL script** for quick testing.
+
+---
+
+## ✨ Features
+- ✅ REST API with CRUD operations for employees
+- ✅ Lightweight **H2 in-memory database** (no external DB needed)
+- ✅ Preloaded data via `data.sql` (Alice, Bob, Charlie)
+- ✅ Dockerized (easy to run anywhere)
+- ✅ H2 Database Console enabled
+- ✅ Includes Postman Collection + cURL script for testing
+
+---
+
+## ⚙️ Tech Stack
+- **Java 17**
+- **Spring Boot 3**
+- **Spring Data JPA**
+- **H2 Database**
+- **Maven**
+- **Docker / Docker Compose**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fa2f30b-26c6-4fea-9462-22cb57f5700a" />
+
+
+
